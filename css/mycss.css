@@ -1,0 +1,233 @@
+          
+
+            body
+            {
+                background-color:white;
+                
+  color: #333;
+}
+            
+            .main-div {
+  border: 1px outset grey;
+  background-color: white;
+   text-align: center;
+  height: 99%;
+border-radius: 10px;
+}
+.left-side
+{
+    background-color: 304869;
+    width: 30%;
+    height: 98%;
+    margin-top: 6px;
+    margin-left: 6px;
+    border-radius: 10px;
+
+}
+.image
+{
+    height: 40%;
+    width: 80%;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+.contact
+{
+    margin-left: -6.9cm;
+    margin-top: 2cm;
+    color:white;
+    font-weight: bold;
+    font-family: inter;
+}
+.contacts
+{
+   margin-top: 2cm;
+   margin-left: -8%;
+}
+.kigali
+{
+    margin-left: -3.5cm;
+    color: white;
+
+}
+.phonenumber
+{
+    margin-left: -5.7cm;
+    color: white;
+    font-family: inter;
+}
+.email
+{
+    margin-left: -2.5cm;
+    color: white;
+    font-family: inter;
+}
+.skills
+{
+    margin-top: 0cm;
+        color: white;
+    margin-inline: initial;
+    font-family: inter;
+padding:50px;
+position: relative;
+margin-left: -25%;;
+}
+.kigali
+{
+    font-family: inter;
+}
+.top
+{
+    margin-left: -180px;
+}
+.front
+{
+    margin-left: -75px;
+}
+.python
+{
+    margin-left: -86px;
+}
+.cyber
+{
+    margin-left: 10px;
+}
+
+   .menu
+   {
+    margin-top: -17cm;
+    margin-left: 13cm;
+   }
+   .right-side
+   {
+    margin-top: -19.1cm;
+    background-color: white;
+    width:69.7%;
+    margin-left: 30.4%;
+    height: 98%;
+    border-radius: 4px;
+   }
+  h1,h4{
+    font-family: inter;
+    font-weight: semi-bold;
+    margin-left: -55%;
+  }
+  h4{
+    margin-left: -75%;
+  }
+  h5{
+    font-family: inter;
+    font-weight: normal;
+    margin-left: -8.3%;
+    
+  }
+  .ido
+  {
+    margin-left: -53.5%;
+  }
+  .experience
+  {
+    margin-left: -74.5%;
+  }
+  .google-student
+  {
+    margin-left: -78%;
+    margin-top: 6px;
+    position: static;
+    margin-top: 2%;
+        
+  }
+  label{
+    font-family: inter;
+  }
+  .time
+  {
+    position: relative;
+   margin-left: -49%;
+  }
+  .gd{
+    margin-left: 8%;
+    height: 2%;
+    width: 50%;
+    margin-top: -2.5%;
+  
+  }
+  .kigali2
+  {
+    margin-left: -52.5%;
+    height: 2%;
+    width: 50%;
+     }
+
+  .imageforgoogle
+  {
+    height: 4%;
+    width: 4%;
+  }
+  .language
+  {
+    margin-top: 45px;
+    width: 20%;
+    height: 13%;
+    margin-left: 7.5%;
+    text-align: justify; 
+    position: static;
+  
+
+  }
+  .hobbies
+  {
+    margin-top: -8%;
+    width: 20%;
+    height: 13%;
+    margin-left: 28%;
+    text-align: justify; 
+
+  }
+  .lang{
+    
+    margin: 0px;
+  }
+  .adprogramming
+  {
+   
+    width: 40%;
+    height: 13%;
+    margin-top: -8%;
+    margin-left: 46%;
+    text-align: justify; 
+  }
+  .education
+  {
+    width: 40%;
+    height: 4%;
+    margin-top: 30px;
+    margin-left: -8.7%;
+    
+
+  }
+  .urlogo
+  {
+    height: 40px;
+    width: 40px;
+    margin-left: 12px;
+  }
+  .education1
+  {
+    text-align: justify;
+    margin-left: 67px;
+  }
+  .text
+  {
+    width: 45%;
+    height: 20%;
+    margin-left: 7%;
+    margin-top: -4%;
+  }
+  .ur{
+    font-weight:600;
+  }
+  .infosystem
+  {
+    font-size: 14px;
+  }
